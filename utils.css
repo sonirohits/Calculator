@@ -1,0 +1,33 @@
+.text-center{
+    text-align: center;
+    margin-left: 50px;
+}
+
+.mx-auto{
+    margin: auto;
+}
+.flex{
+
+display: flex; 
+} 
+.flex-col{
+    flex-direction: column;
+   
+}
+.items-center{
+    justify-content: center;
+    align-items: center;
+}
+
+.p1{
+    padding: 17px;
+}
+.p2{
+    padding: 17px;
+}
+.p3{
+    padding: 17px;
+}
+.p4{
+    padding: 17px;
+}
